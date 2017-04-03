@@ -19,22 +19,21 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="#ff0000"
+            android:background="#990f0f"
             >
         </LinearLayout>
         <LinearLayout
             android:layout_width="0dp"
-            android:layout_height="match_parent"
+            android:layout_height="130dp"
             android:layout_weight="1"
-            android:background="#be7979"
+            android:background="#d7a1a1"
             >
             <LinearLayout
-                android:orientation="horizontal"
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:background="#584b4b"
-                >
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#af8f8f"
+            >
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
